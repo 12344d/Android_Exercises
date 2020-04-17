@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="txtlable">Tổng hai số</string>
+    <string name="txtnuma">Nhập số a:</string>
+    <string name="txtnumb">Nhập số b:</string>
+    <string name="btnsum">Tổng</string>
+    <string name="btnclear">Xóa trắng</string>
+</resources>
